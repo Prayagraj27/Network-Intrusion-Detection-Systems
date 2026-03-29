@@ -123,8 +123,8 @@ Place all `*_TrafficFlowMeter.csv` files in `./data/` before running Notebook 1.
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Prayagraj27/Network-Intrusion-Detection-Systems.git
+cd Network-Intrusion-Detection-Systems
 
 pip install torch numpy pandas scikit-learn xgboost imbalanced-learn \
             matplotlib seaborn tqdm joblib
